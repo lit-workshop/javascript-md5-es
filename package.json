@@ -1,0 +1,16 @@
+{
+  "name": "javascript-md5-es",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c ./rollup.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-md5": "^2.11.0",
+    "rollup": "^1.18.0",
+    "rollup-plugin-commonjs": "^10.0.2"
+  }
+}
